@@ -322,7 +322,7 @@ if __name__=="__main__":
     # Startup
     # Check python is at 3.5 of higher. Prerequisite for subprocess.run()
     if float(sys.version[0:3]) <  3.5:
-        sys.exit("Requires Python 3.5 or higher. Exiting...")1
+        sys.exit("Requires Python 3.5 or higher. Exiting...")
 
     #print("Starting Client.")
     #print("Start with -h for brief help, or --help for full help information\n")
